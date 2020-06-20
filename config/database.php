@@ -2,10 +2,10 @@
 class Database{
   
     // specify your own database credentials
-    private $host = "localhost";
-    private $db_name = "api_db";
-    private $username = "root";
-    private $password = "";
+    private $host = "hostingmysql324.amen.fr";
+    private $db_name = "lasaintebible_db";
+    private $username = "saintebibleuser";
+    private $password = "l@SA1nt3Eibl3";
     public $conn;
   
     // get the database connection
