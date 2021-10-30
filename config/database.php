@@ -2,7 +2,7 @@
 class Database{
   
     // specify your own database credentials
-    private $host = "hostingmysql324.amen.fr";
+    private $host = "localhost";//"hostingmysql324.amen.fr";
     private $db_name = "lasaintebible_db";
     private $username = "saintebibleuser";
     private $password = "l@SA1nt3Eibl3";
